@@ -1,0 +1,9 @@
+@media (min-width: 700px) and (max-width: 992px) {
+    section.about .about-image img{
+        width: 90%;
+        padding-bottom: 28px;
+    }
+    section.about .descripe{
+        padding-top: 20px;
+    }
+}
